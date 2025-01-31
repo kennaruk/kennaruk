@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ken</h1>
-<h3 align="center">A passionate fullstack developer from Thailand, graduated with gold medal 🥇 from bachelor of computer science Thammasat University. I've been developing web, cross-platform mobile & desktop applications more than six years.</h3>
+<h3 align="center">A passionate fullstack developer, graduated with gold medal 🥇 from bachelor of computer science Thammasat University. I've been developing web, cross-platform mobile & desktop applications more than six years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennaruk&label=Profile%20views&color=0e75b6&style=flat" alt="kennaruk" /> </p>
 
