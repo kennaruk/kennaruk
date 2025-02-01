@@ -12,9 +12,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Innovation Engineer ที่ KBTG มีชีวิตการทำงานเป็นยังไง?](https://medium.com/kbtg-life/innovation-engineer-%E0%B8%97%E0%B8%B5%E0%B9%88-kbtg-%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87-3f6688ad152a?source=rss-649f7ce2490b------2)
-- [Operation Cost ที่ถูกที่สุดคือ Disk Space](https://medium.com/@kennwuttisasiwat/operation-cost-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%84%E0%B8%B7%E0%B8%AD-disk-space-374d9e38d708?source=rss-649f7ce2490b------2)
-- [[Javascript] String replacement with regular expression and capturing group](https://medium.com/@kennwuttisasiwat/javascript-string-replacement-with-regular-expression-and-capturing-group-c23c7b03633a?source=rss-649f7ce2490b------2)
-- [เติม [Story-ID] ด้านหน้า commit message อัตโนมัติ ด้วย git hook](https://medium.com/@kennwuttisasiwat/%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1-story-id-%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-commit-message-%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B9%82%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-git-hook-13b8129efb76?source=rss-649f7ce2490b------2)
+- [Operation Cost ที่ถูกที่สุดคือ Disk Space](https://medium.com/@kennw.dev/operation-cost-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%84%E0%B8%B7%E0%B8%AD-disk-space-374d9e38d708?source=rss-649f7ce2490b------2)
+- [[Javascript] String replacement with regular expression and capturing group](https://medium.com/@kennw.dev/javascript-string-replacement-with-regular-expression-and-capturing-group-c23c7b03633a?source=rss-649f7ce2490b------2)
+- [เติม [Story-ID] ด้านหน้า commit message อัตโนมัติ ด้วย git hook](https://medium.com/@kennw.dev/%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1-story-id-%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-commit-message-%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B9%82%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-git-hook-13b8129efb76?source=rss-649f7ce2490b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
