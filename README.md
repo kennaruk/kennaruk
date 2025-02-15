@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://linkedin.com/in/kennaruk**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hFwW3y2pUK2dObdJxvqpu3w6qPzbEezeT1Gofq0knF8/edit?usp=sharing](https://docs.google.com/document/d/1hFwW3y2pUK2dObdJxvqpu3w6qPzbEezeT1Gofq0knF8/edit?usp=sharing)
+- 📄 Know about my experiences here is [my CV](https://docs.google.com/document/d/1bSussgLLyuoZb0YofMan3wwyhlLbH6s8zITm53XkJeY/edit?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
