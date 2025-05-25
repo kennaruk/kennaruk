@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ken</h1>
-<h3 align="center">A passionate fullstack developer, graduated with gold medal 🥇 from bachelor of computer science Thammasat University. I've been developing web, cross-platform mobile & desktop applications more than six years.</h3>
+<h3 align="center">A passionate senior fullstack developer, M.S. CS and B.S. CS in Computer Science with 🥇 gold medal and honors. I've been developing web, cross-platform mobile & desktop applications, cloud services, and many software applications for more than six years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennaruk&label=Profile%20views&color=0e75b6&style=flat" alt="kennaruk" /> </p>
 
@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **https://linkedin.com/in/kennaruk**
 
-- 📄 Know about my experiences here is [my CV](https://docs.google.com/document/d/1bSussgLLyuoZb0YofMan3wwyhlLbH6s8zITm53XkJeY/edit?usp=drive_link)
+- 💻 My portfolio: https://kennaruk.github.io/
+
+- 📄 Know about my experiences here is [my CV](https://docs.google.com/document/d/1v4eDULp3I0bSNTFtwy2Zn702yDvlxfM8xySx6X-xo1A/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
