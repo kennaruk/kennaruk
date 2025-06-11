@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ken</h1>
-<h3 align="center">A passionate senior fullstack developer, M.S. CS and B.S. CS in Computer Science with 🥇 gold medal and honors. I've been developing web, cross-platform mobile & desktop applications, cloud services, and many software applications for more than six years.</h3>
+<h3 align="center">A passionate senior fullstack developer, M.S. CS and B.S. CS in Computer Science with 🥇 gold medal and honors. I've been developing web, cross-platform mobile & desktop applications, cloud services, and many software applications for more than seven years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennaruk&label=Profile%20views&color=0e75b6&style=flat" alt="kennaruk" /> </p>
 
