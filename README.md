@@ -9,7 +9,7 @@
 
 - 💻 My portfolio: https://kennaruk.github.io/
 
-- 📄 Know about my experiences here is [my CV](https://docs.google.com/document/d/1v4eDULp3I0bSNTFtwy2Zn702yDvlxfM8xySx6X-xo1A/edit?usp=sharing)
+- 📄 Know about my experiences here is [my CV](https://docs.google.com/viewer?url=https://docs.google.com/document/d/1v4eDULp3I0bSNTFtwy2Zn702yDvlxfM8xySx6X-xo1A/export?format=pdf&embedded=true)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
